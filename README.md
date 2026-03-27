@@ -96,10 +96,20 @@ I am a final-year **B.Tech Computer Science** student at **VIT Bhopal University
 
 ---
 
+### 🎯 What I'm Looking For
+
+* **Cybersecurity & SOC Analyst Internships**
+* **Entry-level Digital Forensics roles**
+* **Security Researcher / Penetration Testing positions**
+
+I'm eager to learn from experienced security professionals, investigate real-world threat architectures, and grow as a digital forensics investigator.
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryancodesit&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryancodesit&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryancodesit&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
