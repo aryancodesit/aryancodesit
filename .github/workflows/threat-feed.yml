@@ -1,0 +1,24 @@
+name: Latest Cyber Threat Feed
+
+on:
+  schedule:
+    # Runs automatically every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme-with-threats:
+    name: Update README with latest threat intel
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Pull RSS Feeds
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "THREAT_FEED"
+          commit_message: "Updated Threat Feed"
+          max_post_count: 5
+          # CISA Advisories and The Hacker News RSS feeds
+          feed_list: "https://www.cisa.gov/cybersecurity-advisories/all.xml, https://feeds.feedburner.com/TheHackersNews"
