@@ -102,9 +102,7 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 * **Impact:** Streamlines open-source intelligence collection for security audits.
 * [**View Repository »**](https://github.com/aryancodesit/Drishti-OSINT) 
 
-
 ### 🚨 Latest Threat Intel & Advisories
-
 
 
 ### 🏎️ About Me
