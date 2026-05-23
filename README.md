@@ -104,7 +104,6 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 
 ### 🚨 Latest Threat Intel & Advisories
 
-
 ### 🏎️ About Me
 
 Beyond the terminal and packet analysis, I am an avid follower of Formula 1 racing. I also enjoy playing the Casio piano, writing and appreciating Urdu Shayari, and diving into open-world simulation games to unwind. 
