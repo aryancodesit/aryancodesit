@@ -110,11 +110,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries](https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html)
-- [Eppendorf BioFlo 320](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01)
-- [ABB Ability Camera Connect](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-05)
-- [ABB B&amp;R Automation Runtime DoS Vulnerability in System Diagnostics Manager &lpar;SDM&rpar;](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04)
-- [ABB LVS MConfig](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06)
+- [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html)
+- [GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure](https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html)
+- [3 SOC Steps that Shut Down Incident Risks Early](https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html)
+- [Gitea Vulnerability Exposes Private Container Images without Authentication](https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html)
+- [AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites](https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html)
 <!-- THREAT_FEED:END -->
 
 ---
