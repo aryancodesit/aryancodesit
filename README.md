@@ -110,11 +110,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back](https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html)
-- [Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions](https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html)
-- [MFA Prompt Bombing: Why Your Second Factor Isn&#39;t Saving You](https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html)
-- [CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks](https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html)
-- [Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning](https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html)
+- [MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries](https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html)
+- [Eppendorf BioFlo 320](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01)
+- [ABB Ability Camera Connect](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-05)
+- [ABB B&amp;R Automation Runtime DoS Vulnerability in System Diagnostics Manager &lpar;SDM&rpar;](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04)
+- [ABB LVS MConfig](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06)
 <!-- THREAT_FEED:END -->
 
 ---
