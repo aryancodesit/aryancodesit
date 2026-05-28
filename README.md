@@ -110,11 +110,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
+- [Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal](https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html)
+- [ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More](https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html)
+- [New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI &quot;Power users&quot;](https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html)
+- [JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware](https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html)
 - [Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users](https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html)
-- [Malicious npm Package Stole Files From Claude AI User Directory via GitHub](https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html)
-- [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html)
-- [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog)
-- [GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure](https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html)
 <!-- THREAT_FEED:END -->
 
 ---
