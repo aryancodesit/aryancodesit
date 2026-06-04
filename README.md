@@ -110,11 +110,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html)
-- [Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT](https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html)
-- [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html)
-- [Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag](https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html)
-- [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis &lpar;CVE-2026-23479&rpar;](https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html)
+- [China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
+- [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)
+- [Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS](https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html)
+- [Hackers Spied on a Stock Exchange Executive&#39;s Outlook Mailbox for Five Months](https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html)
+- [DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets](https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html)
 <!-- THREAT_FEED:END -->
 
 ---
