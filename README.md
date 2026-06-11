@@ -110,11 +110,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
-- [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
-- [Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)
-- [CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html)
-- [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
+- [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
+- [ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
+- [AI Broke Vulnerability Management. That&#39;s Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
+- [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
+- [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
 <!-- THREAT_FEED:END -->
 
 ---
