@@ -110,11 +110,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html)
-- [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
-- [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html)
-- [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
-- [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
+- [One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes](https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html)
+- [⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More](https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html)
+- [The Onboarding Password Mistake That Creates Unnecessary Risk](https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html)
+- [152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic](https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html)
+- [Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites](https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html)
 <!-- THREAT_FEED:END -->
 
 ---
