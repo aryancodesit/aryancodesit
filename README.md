@@ -110,11 +110,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
+- [Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting](https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html)
+- [ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures](https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html)
 - [New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds](https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html)
 - [Rockwell Automation Logix 5370 &amp; 5570 Controllers Vulnerable To Denial of Service Via CIP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03)
 - [Rockwell Automation RSLinx](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02)
-- [Rockwell Automation FLEX I/O EtherNet/IP Adapters](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05)
-- [Rockwell Automation FactoryTalk Analytics PavilionX](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01)
 <!-- THREAT_FEED:END -->
 
 ---
