@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
-- [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
-- [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html)
-- [ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html)
-- [New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage](https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html)
+- [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
+- [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html)
+- [Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT](https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html)
+- [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
+- [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html)
 <!-- THREAT_FEED:END -->
 
 ---
