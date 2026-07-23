@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Why Modern SOCs Need Multi-Layered Detections](https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html)
-- [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html)
-- [Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library](https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html)
-- [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html)
-- [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
+- [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html)
+- [Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs](https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html)
+- [Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data](https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html)
+- [Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication](https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html)
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 <!-- THREAT_FEED:END -->
 
 ---
