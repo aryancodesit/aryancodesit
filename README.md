@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
-- [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
-- [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)
-- [Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)
-- [Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments](https://thehackernews.com/2026/07/nine-year-fraud-campaign.html)
+- [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
+- [The Network Has Become the Control Plane for AI Security](https://thehackernews.com/2026/07/the-network-has-become-control-plane.html)
+- [Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts](https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html)
+- [SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT](https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html)
+- [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
 <!-- THREAT_FEED:END -->
 
 ---
