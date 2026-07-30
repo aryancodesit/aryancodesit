@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Mythos Asks the Right Question. It Doesn&#39;t Answer It.](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)
-- [Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser](https://thehackernews.com/2026/07/researchers-show-single-malicious.html)
-- [73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack](https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html)
-- [Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity](https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html)
-- [Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass](https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html)
+- [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
+- [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
+- [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)
+- [Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)
+- [Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments](https://thehackernews.com/2026/07/nine-year-fraud-campaign.html)
 <!-- THREAT_FEED:END -->
 
 ---
