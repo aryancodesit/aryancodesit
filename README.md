@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Siemens Parasolid](https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-10)
-- [Siemens License Server &lpar;SLS&rpar;](https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-07)
-- [Siemens Desigo DXR and PXC Controllers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-08)
-- [Johnson Controls Inc. Airwall](https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-03)
-- [Johnson Controls Metasys](https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-14)
+- [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html)
+- [Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware](https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html)
+- [SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch](https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html)
+- [Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner](https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html)
+- [Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware](https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html)
 <!-- THREAT_FEED:END -->
 
 ---
