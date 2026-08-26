@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html)
-- [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
-- [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
-- [Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning](https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html)
-- [⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More](https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html)
+- [U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches](https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html)
+- [A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
+- [WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
+- [Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode](https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html)
+- [Ebyte NE2-D11](https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-06)
 <!-- THREAT_FEED:END -->
 
 ---
