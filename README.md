@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure](https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html)
-- [Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems](https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html)
-- [13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds](https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html)
-- [Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests](https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html)
-- [Rockwell Automation RSLinx Classic](https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-01)
+- [Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
+- [Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
+- [BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access](https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html)
+- [Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control](https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html)
+- [Communicating Under Pressure: Best Practices for Service Providers](https://www.cisa.gov/resources-tools/resources/communicating-under-pressure-best-practices-service-providers)
 <!-- THREAT_FEED:END -->
 
 ---
