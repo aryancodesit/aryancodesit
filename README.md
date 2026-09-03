@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)
-- [Fake Software Installers Disable Windows Update and Weaken Microsoft Defender](https://thehackernews.com/2026/09/fake-software-installers-disable.html)
-- [Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)
-- [Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)
-- [BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access](https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html)
+- [Preparing for the Post-Quantum Era: A Call to Action](https://www.cisa.gov/resources-tools/resources/preparing-post-quantum-era-call-action)
+- [US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html)
+- [Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html)
+- [Shai-Hulud&#39;s Reach Just Grew to 469 Credential Locations. Here&#39;s What That Means](https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html)
+- [Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member&#39;s iPhone](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html)
 <!-- THREAT_FEED:END -->
 
 ---
