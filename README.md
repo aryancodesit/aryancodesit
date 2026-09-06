@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
+- [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
+- [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
 - [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
 - [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
 - [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
-- [Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers&#39; Data It Said Was Deleted](https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html)
-- [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html)
 <!-- THREAT_FEED:END -->
 
 ---
