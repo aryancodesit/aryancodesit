@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html)
-- [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html)
-- [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html)
-- [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html)
-- [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html)
+- [Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks](https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html)
+- [⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More](https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html)
+- [Your Cloud Security Checklist Doesn&#39;t Work the Way You Think It Does](https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html)
+- [Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts](https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html)
+- [Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html)
 <!-- THREAT_FEED:END -->
 
 ---
