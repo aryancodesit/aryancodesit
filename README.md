@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone](https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html)
-- [Mitsubishi Electric CC-Link IE TSN Communication Protocol &lpar;Update A&rpar;](https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07)
-- [Mitsubishi Electric GX Works3 and Motion Control Settings](https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-02)
-- [Hitachi Energy FACTS Control Platform &lpar;FCP&rpar;](https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-03)
-- [Bransys ELD](https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-01)
+- [Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation](https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html)
+- [An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.](https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html)
+- [Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents](https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html)
+- [WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage](https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html)
+- [Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer](https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html)
 <!-- THREAT_FEED:END -->
 
 ---
