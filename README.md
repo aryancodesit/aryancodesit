@@ -86,10 +86,10 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 
 <!-- THREAT_FEED:START -->
 - [Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone](https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html)
-- [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html)
-- [CISO&#39;s Expert Guide to Agentic Pentesting for Websites](https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html)
-- [China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America](https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html)
-- [OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads](https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html)
+- [Mitsubishi Electric CC-Link IE TSN Communication Protocol &lpar;Update A&rpar;](https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07)
+- [Mitsubishi Electric GX Works3 and Motion Control Settings](https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-02)
+- [Hitachi Energy FACTS Control Platform &lpar;FCP&rpar;](https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-03)
+- [Bransys ELD](https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-01)
 <!-- THREAT_FEED:END -->
 
 ---
