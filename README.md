@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR](https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html)
-- [Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto](https://thehackernews.com/2026/09/contagious-interview-campaign.html)
-- [Google Fined €403 Million Over GDPR Violations Tied to Location Data](https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html)
-- [⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks](https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html)
-- [TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data](https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html)
+- [AI Agents Are Rewriting the Rules of Lateral Movement](https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html)
+- [New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups](https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html)
+- [Siemens Industrial Edge Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-06)
+- [OpenPLC Runtime v3](https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-09)
+- [lwIP &lpar;Lightweight IP&rpar;](https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-02)
 <!-- THREAT_FEED:END -->
 
 ---
