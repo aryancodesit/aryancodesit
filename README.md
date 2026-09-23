@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [AI Agents Are Rewriting the Rules of Lateral Movement](https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html)
-- [New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups](https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html)
-- [Siemens Industrial Edge Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-06)
-- [OpenPLC Runtime v3](https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-09)
-- [lwIP &lpar;Lightweight IP&rpar;](https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-02)
+- [Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks](https://thehackernews.com/2026/09/check-point-warns-of-management-server.html)
+- [WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers](https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html)
+- [Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials](https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html)
+- [Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises](https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html)
+- [Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials](https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html)
 <!-- THREAT_FEED:END -->
 
 ---
