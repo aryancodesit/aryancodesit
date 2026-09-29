@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks](https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html)
-- [Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks](https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html)
-- [IAM for AI agents: A Practical Enterprise Framework](https://thehackernews.com/2026/09/iam-for-ai-agent.html)
-- [Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M](https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html)
-- [RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims](https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html)
+- [Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown](https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html)
+- [101 Malicious npm Packages Add Developers&#39; WhatsApp Accounts to Groups Without Consent](https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html)
+- [Baicells Nova 430H](https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04)
+- [MikroTik RouterOS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06)
+- [VIVOTEK Camera Firmware](https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-03)
 <!-- THREAT_FEED:END -->
 
 ---
