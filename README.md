@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
+- [French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks](https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html)
+- [New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses](https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html)
+- [Russia&#39;s Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor](https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html)
 - [Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown](https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html)
 - [101 Malicious npm Packages Add Developers&#39; WhatsApp Accounts to Groups Without Consent](https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html)
-- [Baicells Nova 430H](https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04)
-- [MikroTik RouterOS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06)
-- [VIVOTEK Camera Firmware](https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-03)
 <!-- THREAT_FEED:END -->
 
 ---
