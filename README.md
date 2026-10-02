@@ -89,7 +89,7 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 - [ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories](https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html)
 - [WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory](https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html)
 - [Armatura LLC Armatura One](https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-01)
-- [Monta monta.app](https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-02)
+- [Meari IoT Cloud Platform OpenAPI Service](https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-06)
 <!-- THREAT_FEED:END -->
 
 ---
