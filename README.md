@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
+- [Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes](https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html)
+- [Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan](https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html)
 - [Hitachi Energy REB500](https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-05)
 - [Hitachi Energy Asset Suite](https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03)
 - [Johnson Controls EasyIO FG](https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-01)
-- [Hitachi Energy SOI](https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-04)
-- [Savannah lwIP SMTP client](https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-02)
 <!-- THREAT_FEED:END -->
 
 ---
