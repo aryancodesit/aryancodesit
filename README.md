@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes](https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html)
-- [Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan](https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html)
-- [Hitachi Energy REB500](https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-05)
-- [Hitachi Energy Asset Suite](https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03)
-- [Johnson Controls EasyIO FG](https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-01)
+- [Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer](https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html)
+- [SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances](https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html)
+- [Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely](https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html)
+- [PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet](https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html)
+- [The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow](https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html)
 <!-- THREAT_FEED:END -->
 
 ---
