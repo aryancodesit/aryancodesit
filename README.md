@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory](https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html)
-- [ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More](https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html)
-- [Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads](https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html)
-- [Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks](https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html)
-- [Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams](https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html)
+- [OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)
+- [Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials](https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials)
+- [AI Decision Models and Their Impact on AI SOC Platforms](https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html)
+- [China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers](https://thehackernews.com/2026/10/china-linked-hackers-exploited.html)
+- [CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing](https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html)
 <!-- THREAT_FEED:END -->
 
 ---
