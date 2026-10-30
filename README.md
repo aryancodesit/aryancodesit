@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories](https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html)
-- [Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions](https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html)
-- [Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners](https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html)
-- [Google&#39;s Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities](https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html)
-- [Hitachi Energy CoreTec Product](https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03)
+- [TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them](https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html)
+- [WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours](https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html)
+- [Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis](https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html)
+- [Why Urgent Security Fixes Aren&#39;t Fixed. Observe, Prove, Act, Confirm Gets Them Moving](https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html)
+- [Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison](https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html)
 <!-- THREAT_FEED:END -->
 
 ---
