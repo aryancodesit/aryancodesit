@@ -85,11 +85,11 @@ I am a final-year B.Tech Computer Science student at VIT Bhopal University, spec
 ### 🚨 Latest Threat Intel & Advisories
 
 <!-- THREAT_FEED:START -->
-- [N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners](https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html)
-- [Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches](https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html)
-- [⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days](https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html)
-- [Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login](https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html)
-- [Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware](https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html)
+- [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE &lpar;CVE-2026-114938&rpar; Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html)
+- [Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers](https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html)
+- [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
+- [Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission](https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html)
+- [Dorsett Controls InfoScan](https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01)
 <!-- THREAT_FEED:END -->
 
 ---
